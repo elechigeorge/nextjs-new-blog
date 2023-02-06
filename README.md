@@ -10,8 +10,6 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 
 ## How to clone
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
 ## You will need to create a .env.local file in the root dir
 ## and add your keys
 
@@ -25,4 +23,3 @@ STEPZEN_API_KEY= api_key
 stepzen import curl http://api.mediastack.com/v1/news?access_key=26647&sources=business,sports
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
